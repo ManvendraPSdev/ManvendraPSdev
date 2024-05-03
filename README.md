@@ -7,21 +7,9 @@ I love diving deep into engineering topics and sharing my learnings across socia
 - **H-Connect**: A Hostel Management Full Stack Web App
 - **Chatopia**: A real-time chatting Application
 
-## 🔭 Currently Working On
-
-Continuously improving my skills and working on exciting projects to expand my knowledge.
-
-## 🌱 Currently Learning
-
-Always eager to learn and stay updated with the latest technologies. Currently, I'm focusing on mastering [insert technology here].
-
 ## 👯 Looking to Collaborate On
 
 I'm open to collaborating on Open Source projects and contributing to Open Source Organizations. If you have an exciting project in mind, feel free to reach out!
-
-## 💬 Ask Me About
-
-Anything related to CS, Networking, or my projects. I'm always happy to share knowledge and engage in interesting discussions.
 
 ## 📫 How to Reach Me
 
