@@ -4,9 +4,8 @@ I'm a passionate CS Engineer with a keen interest in building systems and delvin
 
 I love diving deep into engineering topics and sharing my learnings across social platforms. To put my knowledge into practice, I enjoy working on various side projects, some of which include:
 
-- **H-Connect**: A Hostel Management Full Stack Web App
-- **Chatopia**: A real-time chatting Application
-
+- **Decentralized-Fiver : A freelancing Application with web2 + web3
+- **NTA-Fix : Fixed the problem of Paper leak and any kind of Malpractice by making whole system decentralized
 ## 👯 Looking to Collaborate On
 
 I'm open to collaborating on Open Source projects and contributing to Open Source Organizations. If you have an exciting project in mind, feel free to reach out!
