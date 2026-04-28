@@ -104,17 +104,21 @@ const manvendra = {
 | [**Perplexio**](https://github.com/ManvendraPSdev/Perplexity) | MERN · NodeMailer · LangChain · GenAI · Docker | AI-powered search & answer engine with LangChain pipelines, email notifications & containerized deployment |
 ---
 
+
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ManvendraPSdev&theme=midnight_purple)
-
+<img src="https://github-profile-trophy.vercel.app/?username=ManvendraPSdev&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1"/>
 </div>
+
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ManvendraPSdev&theme=midnight-purple&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 
+</div>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=ManvendraPSdev&label=Profile+Views&color=7c3aed&style=for-the-badge"/>
 </div>
 
 ---
