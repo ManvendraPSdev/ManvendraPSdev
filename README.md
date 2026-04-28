@@ -108,8 +108,7 @@ const manvendra = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ManvendraPSdev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManvendraPSdev&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d1117"/>
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ManvendraPSdev&theme=tokyonight)>
 
 </div>
 
