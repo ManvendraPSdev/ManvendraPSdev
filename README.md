@@ -108,10 +108,9 @@ const manvendra = {
 
 <div align="center">
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ManvendraPSdev&theme=tokyonight)>
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ManvendraPSdev&theme=midnight_purple)
 
 </div>
-
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ManvendraPSdev&theme=midnight-purple&hide_border=true&background=0d1117)](https://git.io/streak-stats)
