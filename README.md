@@ -96,24 +96,24 @@ const manvendra = {
 
 ---
 
-## 🚀 Notable Projects
-
-| Project | Stack | Highlights |
-|---|---|---|
-| [**KORA**](https://github.com/ManvendraPSdev/Kora) | MERN · React · GenAI · Tailwind | Multi-tenant AI customer support platform — chat, tickets, AI-suggested replies & smart routing to human agents |
-| [**Perplexio**](https://github.com/ManvendraPSdev/Perplexity) | MERN · NodeMailer · LangChain · GenAI · Docker | AI-powered search & answer engine with LangChain pipelines, email notifications & containerized deployment |
----
+<p align="center">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ManvendraPSdev&show_icons=true&theme=merko" height="130"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ManvendraPSdev&theme=merko" height="130"/>
+<br/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ManvendraPSdev&layout=compact&theme=merko" height="130"/>
+</p>
 
 
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ManvendraPSdev&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManvendraPSdev&theme=github-compact&hide_border=true"/>
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=ManvendraPSdev&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1"/> -->
 </div>
 
 <div align="center">
 
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+<!-- <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" /> -->
 
 </div>
 
